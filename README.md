@@ -1,5 +1,9 @@
 <h2 align="center">👋 Welcome! to Your-Portfolio! 🌍</h2>
 
+### 🔮 Future ideas
+
+---
+
 ### ⚠️‼️Project in Progress🛑⁉️
 This project is currently under development. Some features may not be complete or fully functional. Stay tuned for updates!
 
