@@ -8,7 +8,7 @@ This project is currently under development. Some features may not be complete o
 ### 🔹 About the Project  
 This is **Your-Portfolio**, a project designed to showcase your work in a sleek and modern way. **Feel free to customize** it to suit your needs.
 
-🚀 **Explore the project on [GitHub](https://github.com/your-username/your-repo-name)** and start building your own professional portfolio today! 🚀
+🚀 **Explore the project on GitHub** and start building your own professional portfolio today! 🚀
 
 ---
 
