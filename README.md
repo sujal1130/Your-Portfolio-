@@ -4,12 +4,12 @@
 
 ---
 
-### ⚠️ Project in Progress 🚧  
+## ⚠️ Project in Progress 🚧  
 This project is currently under development. Some features may not be complete or fully functional. Stay tuned for updates!
 
 ---
 
-### 🔹 About the Project  
+## 🔹 About the Project  
 **Your-Portfolio** is a sleek, modern portfolio template designed to showcase your work effectively. It is **fully customizable**, allowing you to **personalize it according to your needs**.  
 
 🚀 **Explore the project on GitHub** and start building your own professional portfolio today! 🚀
@@ -49,7 +49,7 @@ npm start
 
 ---
 
-📬 Feedback & Contributions
-Have suggestions or **improvements**? Your **feedback** is valuable! Feel free to contribute by submitting issues or pull requests. 📩 . 
+## 💡 Contribute & Share Your Feedback
+🔹 Got ideas for improvements? We’d love your feedback! Feel free to submit issues, contribute via pull requests, or share your thoughts. Your support helps make this project better!🚀
 
----
+📬 Stay connected & let's build something amazing together! 🚀
