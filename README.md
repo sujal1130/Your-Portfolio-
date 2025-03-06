@@ -37,16 +37,6 @@ git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 ```
 
-```bash
-# Install dependencies
-npm install
-```
-
-```bash
-# Start the development server 
-npm start  
-```
-
 ---
 
 ## 💡 Contribute & Share Your Feedback
