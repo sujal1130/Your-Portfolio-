@@ -1,12 +1,32 @@
 <h2 align="center">👋 Welcome to Your-Portfolio! 🌍</h2>
 
-### 🔮 Future ideas
+### 🔮 Future Ideas  
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="250" />
-</p>
+<table align="center" width="100%" style="border: 2px solid #FF5733; border-radius: 10px; padding: 15px; background-color: #1E1E1E;">
+  <tr>
+    <td align="center" style="font-size: 22px; font-weight: bold; color: #FF5733; padding: 15px;">
+      🚀 The Future is Unwritten!  
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="font-size: 18px; color: #FFFFFF; padding: 10px;">
+      🔥 <em>Innovative ideas are brewing...</em>  
+      <br>Stay tuned for groundbreaking developments! 🌍✨  
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 20px;">
+      <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="280" alt="Future Ideas"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="font-size: 16px; color: #FFD700; padding: 10px;">
+      💡 Keep imagining, keep building, and keep pushing boundaries! 🚀  
+    </td>
+  </tr>
+</table>
 
 ---
 
