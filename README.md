@@ -10,8 +10,10 @@
 
 ---
 
-## ⚠️ Project in Progress 🚧  
-This project is currently under development. Some features may not be complete or fully functional. Stay tuned for updates!
+## 🚧 Project Status 
+
+### ⚠️ **Under Development** 🚧
+🚧 This project is actively being developed. Some features may still be in progress. Stay tuned for updates and improvements! 🚧
 
 ---
 
