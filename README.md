@@ -4,6 +4,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="300" />
+</p>
+
+---
+
 ## ⚠️ Project in Progress 🚧  
 This project is currently under development. Some features may not be complete or fully functional. Stay tuned for updates!
 
