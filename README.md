@@ -36,12 +36,13 @@
 
 ---
 
-## 📌 Installation Guide  
+## 📌 Installation & Setup  
 Follow these steps to set up the project locally: 
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/sujal1130/Your-Portfolio-.git
+
 ```
 
 ```bash
