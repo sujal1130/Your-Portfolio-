@@ -17,8 +17,12 @@
 
 ---
 
-## 🔹 About the Project  
-**Your-Portfolio** is a sleek, modern portfolio template designed to showcase your work effectively. It is **fully customizable**, allowing you to **personalize it according to your needs**.  
+## 🚀 Project Overview   
+**Your-Portfolio** is a sleek, modern, and fully customizable portfolio **template designed** to showcase your work with a professional touch. Whether you're a developer, designer, or creative professional, this template helps you **build an impactful online presence.** 🚀
+
+🔹 **Fully responsive** for all devices  
+🔹 **Highly customizable** to fit your personal brand  
+🔹 **Optimized for performance & accessibility**
 
 🚀 **Explore the project on GitHub** and start building your own professional portfolio today! 🚀
 
