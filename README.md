@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="250" />
 </p>
 
 ---
@@ -52,7 +52,30 @@ cd your-repo-name
 
 ---
 
-## 💡 Contribute & Share Your Feedback
-🔹 Got ideas for improvements? We’d love your feedback! Feel free to submit issues, contribute via pull requests, or share your thoughts. Your support helps make this project better!🚀
+## 📩 Stay Connected  
 
-📬 Stay connected & let's build something amazing together! 🚀
+<table align="center" width="100%" style="border-collapse: collapse;">
+  <tr>
+    <td align="center" style="font-size: 20px; font-weight: bold; padding: 10px;">
+      🔥 Let's Build Something Incredible Together! 🚀  
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="font-size: 16px; padding: 10px;">
+      📬 <strong>Have feedback or ideas?</strong>  
+      We’d love to hear from you! Your insights make a difference. Let’s collaborate and innovate.  
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 20px;">
+      <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="320" alt="Let's Connect"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="font-size: 16px; padding: 10px;">
+      🌍 **Stay connected & keep innovating!**  
+    </td>
+  </tr>
+</table>
+
+
