@@ -4,25 +4,25 @@
 
 ---
 
-<table align="center" width="100%" style="border: 2px solid #FF5733; border-radius: 10px; padding: 15px; background-color: #1E1E1E;">
+<table align="center" >
   <tr>
-    <td align="center" style="font-size: 22px; font-weight: bold; color: #FF5733; padding: 15px;">
+    <td align="center" >
       🚀 The Future is Unwritten!  
     </td>
   </tr>
   <tr>
-    <td align="center" style="font-size: 18px; color: #FFFFFF; padding: 10px;">
+    <td align="center" >
       🔥 <em>Innovative ideas are brewing...</em>  
       <br>Stay tuned for groundbreaking developments! 🌍✨  
     </td>
   </tr>
   <tr>
-    <td align="center" style="padding: 20px;">
-      <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="280" alt="Future Ideas"/>
+    <td align="center" >
+      <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="280" alt="Future Ideas"/> <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="220" alt="Support & Star"/>
     </td>
   </tr>
   <tr>
-    <td align="center" style="font-size: 16px; color: #FFD700; padding: 10px;">
+    <td align="center" >
       💡 Keep imagining, keep building, and keep pushing boundaries! 🚀  
     </td>
   </tr>
