@@ -1,10 +1,8 @@
 <h2 align="center">👋 Welcome to Your-Portfolio! 🌍</h2>
 
-### 🔮 Future Ideas  
+## 🔮 Future Ideas  
 
----
-
-<table align="center" >
+<table align="center" width="100%">
   <tr>
     <td align="center" >
       🚀 The Future is Unwritten!  
@@ -12,8 +10,7 @@
   </tr>
   <tr>
     <td align="center" >
-      🔥 <em>Innovative ideas are brewing...</em>  
-      <br>Stay tuned for groundbreaking developments! 🌍✨  
+      🔥 <em>Innovative ideas are brewing...</em> Stay tuned for groundbreaking developments! 🌍✨  
     </td>
   </tr>
   <tr>
