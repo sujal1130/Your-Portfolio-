@@ -15,7 +15,7 @@
   </tr>
   <tr>
     <td align="center" >
-      <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="280" alt="Future Ideas"/> <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="220" alt="Support & Star"/>
+     <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250" alt="Matrix Coding">  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="220" alt="Support & Star"/>
     </td>
   </tr>
   <tr>
@@ -85,7 +85,7 @@ cd your-repo-name
   </tr>
   <tr>
     <td align="center" style="padding: 20px;">
-      <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="320" alt="Let's Connect"/>
+      <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="280" alt="Future Ideas"/>
     </td>
   </tr>
   <tr>
