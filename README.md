@@ -43,7 +43,15 @@
 ---
 
 ## 🌟 Key Features  
-✔️ Fully responsive design for all devices 📱 💻 🖥️✔️ Highly customizable to match your personal brand 🎨✔️ Optimized for speed & accessibility ⚡✔️ Easy deployment & maintenance 🔧✔️ SEO-friendly structure for better online visibility 🔍   
+✔️ Fully responsive design for all devices 📱 💻 🖥️
+
+✔️ Highly customizable to match your personal brand 🎨
+
+✔️ Optimized for speed & accessibility ⚡
+
+✔️ Easy deployment & maintenance 🔧
+
+✔️ SEO-friendly structure for better online visibility 🔍   
 
 ---
 
