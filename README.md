@@ -15,7 +15,7 @@
   </tr>
   <tr>
     <td align="center" >
-     <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250" height="196" alt="Matrix Coding">  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="220" alt="Support & Star"/>
+     <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300"  alt="Matrix Coding">  
     </td>
   </tr>
   <tr>
@@ -42,16 +42,17 @@
 
 ---
 
-## 🌟 Key Features  
-✔️ Fully responsive design for all devices 📱 💻 🖥️
+## ✨ Why Choose This Portfolio?   
 
-✔️ Highly customizable to match your personal brand 🎨
+✔️ **Fully responsive** – Works on all devices 📱 💻 🖥️  
 
-✔️ Optimized for speed & accessibility ⚡
+✔️ **Highly customizable** – Match your unique brand 🎨  
 
-✔️ Easy deployment & maintenance 🔧
+✔️ **Optimized for speed & accessibility** ⚡  
 
-✔️ SEO-friendly structure for better online visibility 🔍   
+✔️ **Easy to deploy & maintain** 🔧  
+
+✔️ **SEO-friendly** – Better online visibility 🔍   
 
 ---
 
@@ -87,7 +88,7 @@ cd your-repo-name
   </tr>
   <tr>
     <td align="center" style="padding: 20px;">
-      <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="280" alt="Future Ideas"/>
+      <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="220" alt="Support & Star"/>
     </td>
   </tr>
   <tr>
