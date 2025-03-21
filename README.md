@@ -5,17 +5,12 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" >
-      🚀 The Future is Unwritten!  
-    </td>
-  </tr>
-  <tr>
-    <td align="center" >
       🔥 <em>Innovative ideas are brewing...</em> Stay tuned for groundbreaking developments! 🌍✨  
     </td>
   </tr>
   <tr>
     <td align="center" >
-     <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300"  alt="Matrix Coding">  
+     <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300"  alt="Matrix Coding">  <p align="center">🚀 The Future is Unwritten!</p> 
     </td>
   </tr>
   <tr>
@@ -74,21 +69,21 @@ cd your-repo-name
 
 ## 📩 Get in Touch 
 
-<table align="center" width="100%" ">
+<table align="center" width="100%" >
   <tr>
-    <td align="center" style="font-size: 16px; padding: 10px;">
+    <td align="center">
       📬 <strong>Have feedback or ideas?</strong>  
       We’d love to hear from you! Your insights make a difference. Let’s collaborate and innovate. 🚀 
     </td>
   </tr>
   <tr>
-    <td align="center" style="padding: 20px;">
-      <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="220" alt="Support & Star"/>
+    <td align="center">
+      <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="220" alt="Support & Star"/> <p align="center">🔥 Let's Build Something Incredible Together! 🚀</p>
     </td>
   </tr>
   <tr>
-    <td align="center" style="font-size: 16px; padding: 10px;">
-      🌍 Stay connected & keep innovating!🔥 Let's Build Something Incredible Together! 🚀  
+    <td align="center">
+      🌍 Stay connected & keep innovating!  
     </td>
   </tr>
 </table>
