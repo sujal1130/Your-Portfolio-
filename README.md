@@ -1,26 +1,5 @@
 <h2 align="center">👋 Welcome to 📌 Your-Portfolio! 🌍</h2>
 
-### 🔮 Future Ideas Roadmap  
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" >
-      💡 🎨 Your-Portfolio - A Professional Portfolio Website & Template 🚀  
-    </td>
-  </tr>
-  <tr>
-    <td align="center" >
-     <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250"  alt="Matrix Coding">  <p align="center">🚀 The Future is Unwritten!</p> 
-    </td>
-  </tr>
-  <tr>
-    <td align="center" >
-      🔥 Your-Portfolio is a <strong>modern, fully customizable, and responsive</strong> portfolio template designed to showcase your work with professionalism and style. Whether you're a 
-      <strong>developer, designer, or creative professional</strong>, this template helps you create a strong online presence. 🌍✨  
-    </td>
-  </tr>
-</table>
-
 ---
 
 ## 🚧 Project Status 
@@ -30,9 +9,31 @@
 
 ---
 
+### 🔮 This is Future Ideas 
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" >
+      💡 🎨 Your-Portfolio - A Professional Portfolio Website & Template 🚀  
+    </td>
+  </tr>
+  <tr>
+    <td align="center" >
+     <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200"  alt="Matrix Coding">  <p align="center">🚀 The Future is Unwritten!</p> 
+    </td>
+  </tr>
+  <tr>
+    <td align="center" >
+      🔮 <strong>"Future Ideas"</strong> refers to innovative concepts planned for development. One such project is <strong> "Your-Portfolio" </strong> 🎨💻, a professional portfolio website and template designed to showcase skills and achievements. 📂🚀 If needed, we can also document these ideas for better planning and execution. 📝✅
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🚀 About Your-Portfolio   
 
-🔹 **Your-Portfolio** is a modern and fully customizable portfolio **template designed** to showcase your work with professionalism and style. Whether you're a developer, designer, or creative professional, this template empowers you to create a compelling online presence. 🎨 🚀
+🔥 **Your-Portfolio** is a **modern and fully customizable portfolio template designed** to showcase your work with professionalism and style. Whether you're a **developer, designer, or creative professional**, this template empowers you to create a compelling online presence. 🌍✨ 
 
 🚀 **Explore the project on GitHub** and start building your own professional portfolio today! 🚀
 
