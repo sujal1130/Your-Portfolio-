@@ -74,12 +74,7 @@ cd your-repo-name
 
 ## 📩 Get in Touch 
 
-<table align="center" width="100%" style="border-collapse: collapse;">
-  <tr>
-    <td align="center" style="font-size: 20px; font-weight: bold; padding: 10px;">
-      🔥 Let's Build Something Incredible Together! 🚀  
-    </td>
-  </tr>
+<table align="center" width="100%" ">
   <tr>
     <td align="center" style="font-size: 16px; padding: 10px;">
       📬 <strong>Have feedback or ideas?</strong>  
@@ -93,7 +88,7 @@ cd your-repo-name
   </tr>
   <tr>
     <td align="center" style="font-size: 16px; padding: 10px;">
-      🌍 **Stay connected & keep innovating!**  
+      🌍 Stay connected & keep innovating!🔥 Let's Build Something Incredible Together! 🚀  
     </td>
   </tr>
 </table>
