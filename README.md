@@ -1,21 +1,22 @@
 <h2 align="center">👋 Welcome to 📌 Your-Portfolio! 🌍</h2>
 
-## 🔮 Future Ideas Roadmap  
+### 🔮 Future Ideas Roadmap  
 
 <table align="center" width="100%">
   <tr>
     <td align="center" >
-      🔥 <em>Innovative ideas are brewing...</em> Stay tuned for groundbreaking developments! 🌍✨  
+      💡 🎨 Your-Portfolio - A Professional Portfolio Website & Template 🚀  
     </td>
   </tr>
   <tr>
     <td align="center" >
-     <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300"  alt="Matrix Coding">  <p align="center">🚀 The Future is Unwritten!</p> 
+     <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250"  alt="Matrix Coding">  <p align="center">🚀 The Future is Unwritten!</p> 
     </td>
   </tr>
   <tr>
     <td align="center" >
-      💡 Keep imagining, keep building, and keep pushing boundaries! 🚀  
+      🔥 Your-Portfolio is a <strong>modern, fully customizable, and responsive</strong> portfolio template designed to showcase your work with professionalism and style. Whether you're a 
+      <strong>developer, designer, or creative professional</strong>, this template helps you create a strong online presence. 🌍✨  
     </td>
   </tr>
 </table>
@@ -45,13 +46,14 @@
 
 ✔️ **Optimized for speed & accessibility** ⚡  
 
-✔️ **Easy to deploy & maintain** 🔧  
+✔️ **Easy to deploy & maintain** 🏆  
 
 ✔️ **SEO-friendly** – Better online visibility 🔍   
 
 ---
 
 ## 📦 Installation & Setup 
+
 Follow these steps to set up the project locally: 
 
 ```bash
@@ -73,7 +75,7 @@ cd your-repo-name
   <tr>
     <td align="center">
       📬 <strong>Have feedback or ideas?</strong>  
-      We’d love to hear from you! Your insights make a difference. Let’s collaborate and innovate. 🚀 
+      We’d love to hear from you! Your insights make a difference. Let’s collaborate and innovate. 💬
     </td>
   </tr>
   <tr>
@@ -94,3 +96,6 @@ cd your-repo-name
 
 🔹 If you find this project useful, consider giving it a **star ⭐** on GitHub. Your support keeps us motivated to improve and add new features! 🚀
 
+```bash
+⭐ Star this repository to show support!
+```
