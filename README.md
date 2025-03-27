@@ -72,7 +72,7 @@ cd your-repo-name
 
 ## 📩 Get in Touch 
 
-<table align="center" width="100%" >
+<table align="center" width="100%" border="1">
   <tr>
     <td align="center">
       📬 <strong>Have feedback or ideas?</strong>  
