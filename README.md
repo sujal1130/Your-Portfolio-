@@ -19,7 +19,7 @@
   </tr>
   <tr>
     <td align="center" >
-     <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200"  alt="Matrix Coding">  <p align="center">🚀 The Future is Unwritten!</p> 
+     <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250"  alt="Matrix Coding">  <p align="center">🚀 The Future is Unwritten!</p> 
     </td>
   </tr>
   <tr>
