@@ -11,7 +11,7 @@
 
 ### 🔮 This is Future Ideas 
 
-<table align="center" width="100%">
+<table border="1" align="center" width="100%">
   <tr>
     <td align="center" >
       💡 🎨 Your-Portfolio - A Professional Portfolio Website & Template 🚀  
