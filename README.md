@@ -55,7 +55,7 @@
 
 ## 📦 Installation & Setup 📦
 
-Follow these steps to set up the project locally: 
+✨ Follow these steps to set up the project locally: 
 
 ```bash
 # Clone the repository
