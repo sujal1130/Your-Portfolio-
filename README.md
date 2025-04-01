@@ -9,7 +9,7 @@
 
 ---
 
-### 🔮 This is Future Ideas 
+### 🔮 This is Future Ideas :
 
 <table border="1" align="center" width="100%">
   <tr>
@@ -31,7 +31,7 @@
 
 ---
 
-## 🚀 About Your-Portfolio   
+## 🚀 About Your-Portfolio : 
 
 🔥 **Your-Portfolio** is a **modern and fully customizable portfolio template designed** to showcase your work with professionalism and style. Whether you're a **developer, designer, or creative professional**, this template empowers you to create a compelling online presence. 🌍✨ 
 
@@ -39,7 +39,7 @@
 
 ---
 
-## ✨ Why Choose This Portfolio?   
+## ✨ Why Choose This Portfolio? :   
 
 ✔️ **Fully responsive** – Works on all devices 📱 💻 🖥️  
 
@@ -70,7 +70,7 @@ cd your-repo-name
 
 ---
 
-## 📩 Get in Touch 
+## 📩 Get in Touch :
 
 <table align="center" width="100%" border="1">
   <tr>
@@ -93,7 +93,7 @@ cd your-repo-name
 
 ---
 
-## 🌟 Show Your Support
+## 🌟 Show Your Support :
 
 🔹 If you find this project useful, consider giving it a **star ⭐** on GitHub. Your support keeps us motivated to improve and add new features! 🌟
 
