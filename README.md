@@ -59,16 +59,16 @@
 
 ## 📦 Installation & Setup 📦
 
-✨ Follow these steps to set up the project locally: 
+📁 Follow these steps to set up the project locally:- ✨ 
 
 ```bash
-# Clone the repository
+# 📦 Clone the repository
 git clone https://github.com/sujal1130/Your-Portfolio-.git
 
 ```
 
 ```bash
-# Navigate to the project directory
+# 📁 Navigate to the project directory
 cd your-repo-name
 ```
 
