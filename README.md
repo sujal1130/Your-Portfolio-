@@ -51,7 +51,7 @@
 
 ✔️ **Optimized for speed & accessibility** ⚡  
 
-✔️ **Easy to deploy & maintain** 🏆  
+✔️ **Easy to deploy & maintain** 🛠️  
 
 ✔️ **SEO-friendly** – Better online visibility 🔍   
 
