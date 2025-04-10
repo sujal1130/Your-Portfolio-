@@ -23,12 +23,12 @@
   </tr>
   <tr>
     <td align="center" >
-     <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250"  alt="Matrix Coding">  <p align="center">🚀 The Future is Unwritten!</p> 
+     <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250"  alt="Matrix Coding">  <p align="center">🔥 The Future is Unwritten! 🔥</p> 
     </td>
   </tr>
   <tr>
     <td align="center" >
-      🔮 <strong>"Future Ideas"</strong> refers to innovative concepts planned for development. One such project is <strong> "Your-Portfolio" </strong> 🎨💻, a professional portfolio website and template designed to showcase skills and achievements. 📂🚀 If needed, we can also document these ideas for better planning and execution. 📝✅
+      🔮 <strong>"Future Ideas"</strong> refers to innovative concepts planned for development. One such project is 🎯 <strong> "Your-Portfolio" </strong> 🎨💻, a professional portfolio website and template designed to showcase skills and achievements. 📂🚀 If needed, we can also document these ideas for better planning and execution. 📝✅
     </td>
   </tr>
 </table>
