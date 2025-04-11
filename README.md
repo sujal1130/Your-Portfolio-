@@ -9,7 +9,7 @@
 ## ⚙️ Project Status 🏗️ :-
 
 ### 🚧 **Currently in Under Development** 🛠️
-💡 This project is actively being developed. Some features may still be in progress. Stay tuned for updates and improvements! 🚧
+💡 This project is actively being developed.🧠💻 Some features may still be in progress.🏗️🧱 Stay tuned for updates and improvements!📈🚧
 
 ---
 
