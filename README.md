@@ -1,8 +1,8 @@
 <h2 align="center">👋 Welcome to 📌 Your-Portfolio! 🌍</h2>
 
-### ⚠️ Thank you for visiting!
+### 🕊️ Thank you for visiting! 🙏
 
-🔧 **Sorry for taking your time! 🌟 This project is still under construction 🏗️, and we appreciate your patience and support Sorry.** 🚧🚀
+🔧 **Sorry for taking your time! 🧭 This project is still under construction 🏗️, and we appreciate your patience and support Sorry.** 🚧🚀
 
 ---
 
