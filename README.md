@@ -90,7 +90,7 @@ cd your-repo-name
   </tr>
   <tr>
     <td align="center">
-      🌍 Stay connected & keep innovating! 💡 
+      🌍 Stay connected & keep innovating! 🌍 
     </td>
   </tr>
 </table>
