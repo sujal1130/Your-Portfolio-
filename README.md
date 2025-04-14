@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td align="center" >
-      🔮 <strong>"Future Ideas"</strong> refers to innovative concepts planned for development.🧠 One such project is 🎯 <strong> "Your-Portfolio" </strong> 🎨💻, a professional portfolio website and template designed to showcase skills and achievements. 📝📂 If needed, we can also document these ideas for better planning and execution. 🛠️📅
+      🔮 <strong>"Future Ideas"</strong> refers to innovative concepts planned for development.🧠 One such project is 🎯 <strong> "Your-Portfolio" </strong> 🎨💻, a professional <strong> portfolio website and template designed </strong> to showcase skills and achievements. 📝📂 If needed, we can also document these ideas for better planning and execution. 🛠️📅
     </td>
   </tr>
 </table>
