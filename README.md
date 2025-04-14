@@ -80,7 +80,7 @@ cd your-repo-name
   <tr>
     <td align="center">
       📬 <strong>Have feedback or ideas?</strong>  
-     🤝🌠 We’d love to hear from you! Your insights make a difference. 🔥 Let’s collaborate and innovate. 💬
+     🤝 We’d love to hear from you! Your insights make a difference. 🔥 Let’s collaborate and innovate. 💬
     </td>
   </tr>
   <tr>
