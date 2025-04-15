@@ -37,7 +37,7 @@
 
 ## 🚀 About Your-Portfolio :-
 
-🎨 **Your-Portfolio** is a 🧰**modern and fully customizable portfolio template designed** 🔥 to showcase your work with professionalism and style. Whether you're a 👨‍💻 **developer, 🎨 designer, or 🎭 creative professional**, this template empowers you to create a compelling online presence. 🌍✨ 
+🎨 **Your-Portfolio** is a 🧰 **modern and fully customizable portfolio template designed** 🔥 to showcase your work with professionalism and style. Whether you're a 👨‍💻 **developer, 🎨 designer, or 🎭 creative professional**, this template empowers you to create a compelling online presence. 🌍✨ 
 
 🔗 **Explore the project on GitHub** and start building your own professional portfolio today! 💻
 
