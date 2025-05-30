@@ -2,7 +2,7 @@
 
 ### 🕊️ Thank you for visiting! 🙏
 
-🔧 **Sorry for taking your time! 🧭 This project is still under construction 🏗️, and we appreciate your patience and support Sorry.** 🚧🚀
+> **Apologies for the inconvenience! 🧭 This project is still under construction 🏗️. We truly appreciate your patience and support. 🚧**
 
 ---
 
