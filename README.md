@@ -99,7 +99,7 @@ cd your-repo-name
 
 ## 🌟 Show Your Support :-
 
-🙏 If you find this project useful, consider giving it a **star ⭐** on GitHub. Your support keeps us motivated to improve and add new features! 💖
+> 🙏 If you find this project useful, consider giving it a **star ⭐** on GitHub. Your support keeps us motivated to improve and add new features! 💖
 
 ```bash
 ⭐ Star this repository to show support!
