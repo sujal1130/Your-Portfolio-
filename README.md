@@ -9,11 +9,11 @@
 ## ⚙️ Project Status 🏗️ :-
 
 ### 🚧 **Currently in Under Development** 🛠️
-💡 This project is actively being built.💻 Some features are still in progress.🏗️ Stay tuned for exciting updates and improvements!🚧
+> 💡 This project is actively being built.💻 Some features are still in progress.🏗️ Stay tuned for exciting updates and improvements!🚧
 
 ---
 
-### 🔮 This is Future Ideas :-
+### 🔮 Future Ideas :-
 
 <table border="1" align="center" width="100%">
   <tr>
