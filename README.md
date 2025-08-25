@@ -74,29 +74,6 @@ cd your-repo-name
 
 ---
 
-## 📩 Get in Touch :-
-
-<table align="center" width="100%" border="1">
-  <tr>
-    <td align="center">
-      📬 <strong>Have feedback or ideas?</strong>  
-     🤝 We’d love to hear from you! Your insights make a difference. 🔥 Let’s collaborate and innovate. 💬
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="220" alt="Support & Star"/> <p align="center">🔥 Let's Build Something Incredible Together! 🔥</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      🌍 Stay connected & keep innovating! 🌍 
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🌟 Show Your Support :-
 
 > 🙏 If you find this project useful, consider giving it a **star ⭐** on GitHub. Your support keeps us motivated to improve and add new features! 💖
